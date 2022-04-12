@@ -19,13 +19,14 @@ body {
     /* border: 2px solid red; */
     border-radius: 2rem;
     width: 23vw;
+
 }
 
 img {
-    height: 40vh;
-    width: auto;
+    height: auto;
+    width: 90%;
     border-radius: 1.5rem;
-    margin-top: 3vh;
+    margin-top: 2vh;
 }
 
 h2 {
@@ -34,7 +35,7 @@ h2 {
 }
 
 span {
-    margin: 1vh 3vw 5vh 3vw;
+    margin: 1vh 3vw 6vh 3vw;
     text-align: center;
 }
 
